@@ -7,3 +7,5 @@ Git SVN CVS
 Git branch
 
 Git merge
+
+Git checkout -b code
